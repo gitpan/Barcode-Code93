@@ -1,0 +1,28 @@
+---
+abstract: 'Generate data for Code 93 barcodes'
+author:
+  - 'Chris DiMartino C<<chris DOT dimartino AT gmail DOT com>> (L<GD::Barcode::Code93>, from which this distribution originates)'
+  - 'Mark A. Stratman <stratman@gmail.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.00'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Barcode-Code93
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Any::Moose: 0
+  Mouse: 0
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: https://github.com/mstratman/Barcode-Code93
+version: 0.01
