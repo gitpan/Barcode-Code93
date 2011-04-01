@@ -25,4 +25,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/mstratman/Barcode-Code93
-version: 0.01
+version: 0.02
